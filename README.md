@@ -29,9 +29,7 @@
 
 
 •If you kept working on it, what would you fix/add/do better?:
-
-	I want to make the game an SSH game, and in C eventually. Short term I want to add a function that if you guess a 			
-	coordinate twice it lets you retry, an update when you sink any part of a ship on the board, and a cleaner ship placement. 
+	I want to make the game an SSH game, and in C eventually. Short term I want to add a function that if you guess a 					coordinate twice it lets you retry, an update when you sink any part of a ship on the board, and a cleaner ship placement. 
 
 
 •Time spent?:
